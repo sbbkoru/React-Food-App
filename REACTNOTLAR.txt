@@ -1,0 +1,3 @@
+* görselleri import edebiliriz ve bir isim tanımlayarak onu kullanabiliriz.
+bunun için src/assets klasörüne görseli koymamız yeterlidir.
+* içinde "-" bulunan classları "classes['main-image']" şeklinde kullanırız.
